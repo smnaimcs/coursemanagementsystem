@@ -1,0 +1,11 @@
+/home/smnaim/CourseManagementSystem/src/main/java/coursemanagement/controller/TeacherServlet.java
+/home/smnaim/CourseManagementSystem/src/main/java/coursemanagement/model/User.java
+/home/smnaim/CourseManagementSystem/src/main/java/coursemanagement/dao/UserDAO.java
+/home/smnaim/CourseManagementSystem/src/main/java/coursemanagement/model/DatabaseConnection.java
+/home/smnaim/CourseManagementSystem/src/main/java/coursemanagement/dao/EnrollmentDAO.java
+/home/smnaim/CourseManagementSystem/src/main/java/coursemanagement/dao/CourseDAO.java
+/home/smnaim/CourseManagementSystem/src/main/java/coursemanagement/controller/LogoutServlet.java
+/home/smnaim/CourseManagementSystem/src/main/java/coursemanagement/controller/AdminServlet.java
+/home/smnaim/CourseManagementSystem/src/main/java/coursemanagement/model/Course.java
+/home/smnaim/CourseManagementSystem/src/main/java/coursemanagement/controller/LoginServlet.java
+/home/smnaim/CourseManagementSystem/src/main/java/coursemanagement/controller/StudentServlet.java
